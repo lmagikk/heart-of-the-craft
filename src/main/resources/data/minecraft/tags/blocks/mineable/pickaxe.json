@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    "heartofminecraft:ovum_ore", "heartofminecraft:nethum_ore", "heartofminecraft:occum_ore", "heartofminecraft:ennum_ore", "heartofminecraft:warrum_ore"
+  ]
+}

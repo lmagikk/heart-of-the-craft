@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "heartofminecraft:ovum_ore"
+  },
+  "result": "heartofminecraft:ovum_ingot",
+  "experience": 1,
+  "cookingtime": 200
+}

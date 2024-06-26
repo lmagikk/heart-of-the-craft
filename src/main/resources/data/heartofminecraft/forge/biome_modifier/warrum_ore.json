@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "features": "heartofminecraft:warrum_ore",
+  "biomes": "minecraft:deep_dark",
+  "step": "underground_ores"
+}

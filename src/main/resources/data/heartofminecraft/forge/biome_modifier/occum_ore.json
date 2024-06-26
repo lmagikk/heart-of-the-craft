@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "features": "heartofminecraft:occum_ore",
+  "biomes": "#minecraft:is_ocean",
+  "step": "underground_ores"
+}

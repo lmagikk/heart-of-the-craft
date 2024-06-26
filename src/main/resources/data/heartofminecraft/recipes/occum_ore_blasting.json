@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "heartofminecraft:occum_ore"
+  },
+  "result": "heartofminecraft:occum_ingot",
+  "experience": 1,
+  "cookingtime": 100
+}

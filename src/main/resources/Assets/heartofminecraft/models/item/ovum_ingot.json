@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "heartofminecraft:item/ovum_ingot"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "heartofminecraft:nethum_ore"
+  },
+  "result": "heartofminecraft:nethum_ingot",
+  "experience": 1,
+  "cookingtime": 100
+}
